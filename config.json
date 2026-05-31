@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configponnect",
+        "uuid": 6590772,
+        "checksum": "p6kph"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
